@@ -16,4 +16,4 @@ def plotData(x,y):
 
 X = np.stack([np.ones(m), X], axis=1)
 
-print(X)
+# print(X)
